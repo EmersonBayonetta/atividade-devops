@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev: contador": "tsx contador.ts",
-    "dev: pessoa": "tsx pessoa.ts",
-    "dev: livro": "tsx livro.ts"
+    "dev": "tsx teste.ts"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +14,6 @@
     "tsx": "^4.23.15"
   },
   "script": {
-    "dev": "tsx pessoa.ts"
+    "dev": "tsx teste.ts"
   }
 }
