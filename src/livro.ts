@@ -1,4 +1,4 @@
-class livro {
+export class livro {
     public titulo: string;
     public autor: string;
 
